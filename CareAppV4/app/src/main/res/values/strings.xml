@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CareAppV4</string>
+    <string name="olderInfo">독거노인 정보</string>
+    <string name="name">이름</string>
+    <string name="age">나이</string>
+    <string name="phone_number">연락처</string>
+    <string name="change_Info">정보수정</string>
+    <string name="calling">전화하기</string>
+    <string name="messaging">문자하기</string>
+    <string name="stateGood">정상</string>
+    <string name="state">건강상태</string>
+    <string name="bloolType">혈액형</string>
+</resources>
